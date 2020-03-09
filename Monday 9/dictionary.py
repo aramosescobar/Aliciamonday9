@@ -1,0 +1,1 @@
+d={"yes":"si", "no":"no", "I":"yo", "see":"veo", "hello":"hola", "my":"mi", "day":"dia", "cat":"gato", "goodby":"adiós", "house":"casa", "every":"cada", "hour":"hora", "swimmingpool":"piscina", "the":"la", "pencil":"lapiz", "loves":"ama", "chair":"silla", "summer":"verano", "in":"en", "chair":"silla", "computer":"ordenador", "swim":"nadar"}
